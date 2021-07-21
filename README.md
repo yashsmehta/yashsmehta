@@ -1,12 +1,10 @@
-### Hi there 👋, I'm [Yash][website], a research engineer located in Freiburg in South Germany, working in the [AutoML]((https://www.automl.org/team/)) lab supervised by Prof. Frank Hutter.
+### Hi there 👋 I'm [Yash][website] 👨🏻‍💻 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+A research engineer located in Freiburg in South Germany, working in the [AutoML lab]((https://www.automl.org/team/)) supervised by Prof. Frank Hutter.
+
+[![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://yashsmehta.github.io)
 
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
@@ -15,8 +13,11 @@
 
 <br />
 
-
+<!--
+profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsmehta&label=Profile%20views&color=0e75b6&style=flat" alt="yashsmehta" /> </p>
+-->
+
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsmehta&hide=issues&count_private=true&show_icons=true&theme=onedark)
 
@@ -40,15 +41,12 @@
 <a href="https://linkedin.com/in/yashsmehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashsmehta" height="30" width="40" /></a>
 </p> -->
 
+
 ### Connect with me
 
-[<img align="left" alt="ym-site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ym-twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ym-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-\
-📫 Email: **yashsmehta95@gmail.com**
-
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yashsmehta95@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/y_mehtu?ref_src=twsrc%5Etfw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsmehta/)
 
 [website]: http://yashsmehta.github.io/
 [twitter]: https://twitter.com/y_mehtu
