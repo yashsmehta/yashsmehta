@@ -45,9 +45,11 @@ profile views
 
 ### Connect with me
 
-[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yashsmehta95@gmail.com)
+<!-- [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yashsmehta95@gmail.com) -->
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/y_mehtu?ref_src=twsrc%5Etfw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsmehta/)
+
+📫 Email: **yashsmehta95@gmail.com**
 
 [website]: http://yashsmehta.github.io/
 [twitter]: https://twitter.com/y_mehtu
