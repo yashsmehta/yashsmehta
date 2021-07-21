@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Yash][website] 👨🏻‍💻 
 
-A research engineer located in Freiburg in South Germany, working in the [AutoML lab]((https://www.automl.org/team/)) supervised by Prof. Frank Hutter.
+A research engineer currently in Freiburg, South Germany working in the [**AutoML lab**](https://www.automl.org/team/) supervised by Prof. Frank Hutter.
 
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://yashsmehta.github.io)
 
@@ -21,9 +21,10 @@ profile views
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsmehta&hide=issues&count_private=true&show_icons=true&theme=onedark)
 
+<!--
 <h3 align="left">Deep Learning Frameworks</h3>
 <p align="left"> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+-->
 
 ### 🎓 Recent Publications
 
@@ -32,7 +33,7 @@ profile views
 >- [Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features](https://ieeexplore.ieee.org/document/9338428)  [IEEE ICDM 2020]
 
 
-➡️ [all publications...][gscholar]
+➡️  [All publications...][gscholar]
 
 
 <!-- <h3 align="left">Connect with me:</h3>
