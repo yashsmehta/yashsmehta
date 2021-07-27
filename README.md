@@ -9,7 +9,7 @@ A research engineer currently in Freiburg, South Germany working in the [**AutoM
 ### Spotify Playing 🎧
 
 
-[![Spotify](https://spotify-now-playing-pvcq40437-yashsmehta.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-now-playing-pvcq40437-yashsmehta.vercel.app/api/spotify)](https://open.spotify.com/user/3vl7y1j3deo657e75mjxlxzrn)
 
 <br />
 
