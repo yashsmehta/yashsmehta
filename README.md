@@ -2,7 +2,7 @@
 
 A research engineer currently in Freiburg, South Germany working in the [**AutoML lab**](https://www.automl.org/team/) supervised by **Prof. Frank Hutter**.
 
-[![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://yashsmehta.github.io)
+[![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://yashsmehta.github.io)
 
 
 
@@ -28,9 +28,9 @@ profile views
 
 ### 🎓 Recent Publications
 
->- [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/pdf/2106.13031.pdf)  [under review, NeurIPS 2021]
->- [On the Limitations of Perturbation-Based Algorithms to Train Deep Networks](https://drive.google.com/file/d/1j3aP9oEniYY4hwzK75468t8QaFiQ1l03/view?usp=sharing)  [under review, NeurIPS 2021]
->- [Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features](https://ieeexplore.ieee.org/document/9338428)  [IEEE ICDM 2020]
+>- [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/pdf/2106.13031.pdf)  [_under review_, NeurIPS 2021]
+>- [On the Limitations of Perturbation-Based Algorithms to Train Deep Networks](https://drive.google.com/file/d/1j3aP9oEniYY4hwzK75468t8QaFiQ1l03/view?usp=sharing)  [_under review_, NeurIPS 2021]
+>- [Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features](https://ieeexplore.ieee.org/document/9338428)  [**IEEE ICDM 2020**]
 
 
 ➡️  [All publications...][gscholar]
