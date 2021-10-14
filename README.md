@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Yash][website] 👨🏻‍💻 
+### Hi there 👋 I'm [Yash "Pilot Blazer" Mehta][website] 👨🏻‍💻 
 
 A research engineer currently in Freiburg, South Germany working in the [**AutoML lab**](https://www.automl.org/team/) supervised by **Prof. Frank Hutter**.
 
