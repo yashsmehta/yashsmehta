@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Yash][website] 👨🏻‍💻 
 
-A research engineer currently in Freiburg, South Germany working in the [**AutoML lab**](https://www.automl.org/team/) supervised by **Prof. Frank Hutter**.
+A research engineer currently not in Freiburg, South Germany working in the [**AutoML lab**](https://www.automl.org/team/) supervised by **Prof. Frank Hutter**.
 
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://yashsmehta.github.io)
 
