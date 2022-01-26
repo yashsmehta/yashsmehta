@@ -35,8 +35,6 @@ profile views
 >- [NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://openreview.net/forum?id=0DLwqQLmqV)  [**ICLR 2022**]
 >- [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/pdf/2106.13031.pdf)  [**NeurIPS 2021**]
 >- [On the Limitations of Perturbation-Based Algorithms to Train Deep Networks](https://drive.google.com/file/d/1j3aP9oEniYY4hwzK75468t8QaFiQ1l03/view?usp=sharing) 
->- [Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features](https://ieeexplore.ieee.org/document/9338428)  [**IEEE ICDM 2020**]
-
 
 ➡️  [All publications...][gscholar]
 
