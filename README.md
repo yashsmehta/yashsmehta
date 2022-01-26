@@ -1,6 +1,11 @@
-### Hi there 👋 I'm [Yash][website] 👨🏻‍💻 
+### Hi there 👋 I'm [Yash][website], working on DL :man_technologist: & Neuroscience :brain:
 
-A research engineer currently in Freiburg, South Germany working in the [**AutoML lab**](https://www.automl.org/team/) supervised by **Prof. Frank Hutter**.
+During my PhD, I am working leveraging deep learning to model plastisity rules in the brain, as part of the **Funke lab** at [**HHMI Janelia Research Campus**](http://www.gatsby.ucl.ac.uk/).
+
+**Previously**:  
+- [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
+- [**Gatsby Computational Neuroscience Unit, UCL**](http://www.gatsby.ucl.ac.uk/) with **Peter Latham** and **Timothy Lillicrap**.
+
 
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://yashsmehta.github.io)
 
@@ -27,8 +32,8 @@ profile views
 -->
 
 ### 🎓 Recent Publications
-<!-- >- [NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://github.com/automl/NASLib)  [_Under review_, ICLR 2022] -->
->- [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/pdf/2106.13031.pdf)  [NeurIPS 2021]
+>- [NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://openreview.net/forum?id=0DLwqQLmqV)  [**ICLR 2022**]
+>- [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/pdf/2106.13031.pdf)  [**NeurIPS 2021**]
 >- [On the Limitations of Perturbation-Based Algorithms to Train Deep Networks](https://drive.google.com/file/d/1j3aP9oEniYY4hwzK75468t8QaFiQ1l03/view?usp=sharing) 
 >- [Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features](https://ieeexplore.ieee.org/document/9338428)  [**IEEE ICDM 2020**]
 
