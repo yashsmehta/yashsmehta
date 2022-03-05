@@ -56,5 +56,5 @@ profile views
 
 [website]: http://yashsmehta.github.io/
 [twitter]: https://twitter.com/y_mehtu
-[gscholar]: https://scholar.google.com/citations?user=zFqBbIkAAAAJ&hl=en
+[gscholar]: https://scholar.google.com/citations?hl=en&user=zFqBbIkAAAAJ&view_op=list_works&sortby=pubdate
 [linkedin]: https://www.linkedin.com/in/yashsmehta/
