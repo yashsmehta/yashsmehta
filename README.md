@@ -5,6 +5,7 @@ I am working leveraging deep learning to model plastisity rules in the brain, as
 **Previously**:  
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
 - [**Gatsby Computational Neuroscience Unit, UCL**](http://www.gatsby.ucl.ac.uk/) with **Peter Latham** and **Timothy Lillicrap**.
+- [**Sentic Lab, NTU Singapore**](http://sentic.net/team/) with **Erik Cambria**
 
 
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://yashsmehta.github.io)
