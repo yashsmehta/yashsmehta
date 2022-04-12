@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Yash][website], working on Deep Learning :man_technologist: & Neuroscience :brain:
+### Hi there 👋 I'm [Yash][website], working on Neural Architecture Search :man_technologist: & Neuroscience :brain:
 
 I am working leveraging deep learning to model plastisity rules in the brain, as part of the **Funke lab** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
 
