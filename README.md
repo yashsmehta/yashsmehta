@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm [Yash][website], working on Neural Architecture Search :man_technologist: & Neuroscience :brain:
 
-I am working leveraging deep learning to model plastisity rules in the brain, as part of the **Funke lab** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
+I am working meta-learning local plasticity rules in a connectome-constraint deep neural network, as part of the **Funke lab** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
 
 **Previously**:  
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
-- [**Gatsby Computational Neuroscience Unit, UCL**](http://www.gatsby.ucl.ac.uk/) with **Peter Latham** and **Timothy Lillicrap**.
+- [**Gatsby Computational Neuroscience Unit, UCL**](http://www.gatsby.ucl.ac.uk/) with **Peter Latham** and **Timothy Lillicrap** (DeepMind)
 - [**Sentic Lab, NTU Singapore**](http://sentic.net/team/) with **Erik Cambria**
 
 
