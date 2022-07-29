@@ -1,6 +1,11 @@
-### Hi there 👋 I'm [Yash][website], working on Neural Architecture Search :man_technologist: & Neuroscience :brain:
+### Hi there 👋 I'm [Yash][website], 
 
-I am working on meta-learning local plasticity rules in a connectome-constraint deep neural network, as part of the **Funke lab** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
+_Deep Learning_ _&_ _Neuroscience_ _research_ :man_technologist: :brain:
+
+I'm working on modeling connectome-constraint Biological Neural Networks for simulating the fly brain as part of the **Funke lab** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
+
+
+
 
 **Previously**:  
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
