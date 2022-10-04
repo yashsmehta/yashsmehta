@@ -19,12 +19,11 @@ I'm working on modeling connectome-constraint Biological Neural Networks for sim
 
 ### Spotify Playing 🎧
 
-
+<!--
 [![Spotify](https://spotify-now-playing-pvcq40437-yashsmehta.vercel.app/api/spotify)](https://open.spotify.com/user/3vl7y1j3deo657e75mjxlxzrn)
 
 <br />
 
-<!--
 profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsmehta&label=Profile%20views&color=0e75b6&style=flat" alt="yashsmehta" /> </p>
 -->
