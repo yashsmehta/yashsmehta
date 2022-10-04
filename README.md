@@ -16,10 +16,9 @@ I'm working on modeling connectome-constraint Biological Neural Networks for sim
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://yashsmehta.github.io)
 
 
-
+<!--
 ### Spotify Playing 🎧
 
-<!--
 [![Spotify](https://spotify-now-playing-pvcq40437-yashsmehta.vercel.app/api/spotify)](https://open.spotify.com/user/3vl7y1j3deo657e75mjxlxzrn)
 
 <br />
