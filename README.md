@@ -2,7 +2,7 @@
 
 _Deep Learning_ _&_ _Neuroscience_ _research_ :man_technologist: :brain:
 
-I'm working on modeling connectome-constraint Biological Neural Networks for simulating the fly brain as part of the **Funke lab** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
+I'm working on modeling connectome-constraint Biological Neural Networks for simulating the fly brain with **James Fitzgerald** and **Jan Funke** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
 
 
 
