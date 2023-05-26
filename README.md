@@ -1,11 +1,8 @@
 ### Hi there 👋 I'm [Yash][website], 
 
-_Deep Learning_ _&_ _Neuroscience_ _research_ :man_technologist: :brain:
+_Multi modal foundation models_ :man_technologist: :brain:
 
-I'm working on modeling connectome-constraint Biological Neural Networks for simulating the fly brain with **James Fitzgerald** and **Jan Funke** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
-
-
-
+Hi! I am an incoming computational cog sci PhD student at Johns Hopkins (fall’23), where I will be working on multimodal foundation models. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. I'm currently working on meta-learning learning algorithms in a fly connectome constrained deep neural network with **James Fitzgerald** and **Jan Funke** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
 
 **Previously**:  
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
