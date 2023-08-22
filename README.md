@@ -2,7 +2,7 @@
 
 _Multi modal foundation models_ :man_technologist: :brain:
 
-Hi! I am an incoming computational cog sci PhD student at Johns Hopkins (fall’23), where I will be working on multimodal foundation models. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. I'm currently working on meta-learning learning algorithms in a fly connectome constrained deep neural network with **James Fitzgerald** and **Jan Funke** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
+Hi! I will be working on multimodal foundation models. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. I'm currently working on meta-learning learning algorithms in a fly connectome constrained deep neural network with **James Fitzgerald** and **Jan Funke** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
 
 **Previously**:  
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
