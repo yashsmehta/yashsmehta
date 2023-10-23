@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm [Yash][website], 
 
-_Multi modal foundation models_ :man_technologist: :brain:
+I am currently a visiting PhD student at DBMI, Harvard Medical School, working with **Pranav Rajpurkar**. I’m excited about multimodal foundation models, focused on applications in healthcare. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. 
 
-Hi! I will be working on multimodal foundation models. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. I'm currently working on meta-learning learning algorithms in a fly connectome constrained deep neural network with **James Fitzgerald** and **Jan Funke** at [**HHMI Janelia Research Campus**](https://www.janelia.org/).
+<img src="ai-healthcare.png" width="250" height="200">
 
 **Previously**:  
+- [**HHMI Janelia Research Campus**](https://www.janelia.org/) with **James Fitzgerald** and **Jan Funke**
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
 - [**Gatsby Computational Neuroscience Unit, UCL**](http://www.gatsby.ucl.ac.uk/) with **Peter Latham** and **Timothy Lillicrap** (DeepMind)
 - [**Sentic Lab, NTU Singapore**](http://sentic.net/team/) with **Erik Cambria**
