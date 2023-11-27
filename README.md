@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Yash][website], 
 
-I am a researcher at DBMI, Harvard Medical School, working with **Pranav Rajpurkar**. I’m excited about multimodal foundation models, focused on applications in healthcare. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. 
+I am a research fellow at DBMI, Harvard Medical School, working with **Pranav Rajpurkar**. I’m excited about multimodal foundation models, focused on applications in healthcare. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. 
 
 <img src="ai-healthcare.png" width="250" height="200">
 
