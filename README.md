@@ -5,7 +5,7 @@ I am a research fellow at DBMI, Harvard Medical School, working with **Pranav Ra
 <img src="ai-healthcare.png" width="250" height="200">
 
 **Previously**:  
-- [**HHMI Janelia Research Campus**](https://www.janelia.org/) with **James Fitzgerald**
+- [**HHMI Janelia Research Campus**](https://www.janelia.org/) with **Jan Funke** and **James Fitzgerald**
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
 - [**Gatsby Computational Neuroscience Unit, UCL**](http://www.gatsby.ucl.ac.uk/) with **Peter Latham** and **Timothy Lillicrap** (DeepMind)
 - [**Sentic Lab, NTU Singapore**](http://sentic.net/team/) with **Erik Cambria**
