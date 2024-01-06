@@ -2,8 +2,6 @@
 
 I am a research fellow at DBMI, Harvard Medical School, working with **Pranav Rajpurkar**. I’m excited about multimodal foundation models, focused on applications in healthcare. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. 
 
-<img src="ai-healthcare.png" width="250" height="200">
-
 **Previously**:  
 - [**HHMI Janelia Research Campus**](https://www.janelia.org/) with **Jan Funke** and **James Fitzgerald**
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
