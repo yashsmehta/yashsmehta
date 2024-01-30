@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm [Yash][website], 
 
-I am a research fellow at DBMI, Harvard Medical School, working with **Pranav Rajpurkar**. I’m excited about multimodal foundation models, focused on applications in healthcare. Throughout my academic journey, I have gained valuable experience in various domains, including `transformers`, `LLMs`, `neuroscience`, and `cognition`. 
+Hi! I'm a PhD student at `Johns Hopkins University`, where I'm thrilled to be exploring applications of deep learning and cognitive science in healthcare. I am currently working with _Mick Bonner_. I was also a visiting PhD student at `Harvard Medical School`, supervised by [Pranav Rajpurkar](https://pranavrajpurkar.com/). Throughout my academic journey, I have gained valuable experience in various domains, including **transformers**, **LLMs**, **neuroscience**, and **cognition**.
 
 **Previously**:  
-- [**HHMI Janelia Research Campus**](https://www.janelia.org/) with **Jan Funke** and **James Fitzgerald**
+- [**HHMI Janelia Research Campus**](https://www.janelia.org/) with **James Fitzgerald**
 - [**AutoML lab, Freiburg**](https://www.automl.org/team/) with **Frank Hutter**
 - [**Gatsby Computational Neuroscience Unit, UCL**](http://www.gatsby.ucl.ac.uk/) with **Peter Latham** and **Timothy Lillicrap** (DeepMind)
 - [**Sentic Lab, NTU Singapore**](http://sentic.net/team/) with **Erik Cambria**
@@ -32,10 +32,11 @@ profile views
 -->
 
 ### 🎓 Recent Publications
+>- [Model-Based Inference of Synaptic Plasticity Rules](https://www.biorxiv.org/content/10.1101/2023.12.11.571103v1) [2024]
+>- [An Emperical Analysis of Perturbation-Based Algorithms to Train Deep Networks](https://github.com/countzerozzz/nodepert) [2023]
 >- [Stability and Scalability of Node Perturbation Learning](https://openreview.net/forum?id=X0CKM7QV5k)  [**NeurIPS 2022**]
 >- [NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://openreview.net/forum?id=0DLwqQLmqV)  [**ICLR 2022**]
 >- [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/pdf/2106.13031.pdf)  [**NeurIPS 2021**]
->- [On the Limitations of Perturbation-Based Algorithms to Train Deep Networks](https://drive.google.com/file/d/1j3aP9oEniYY4hwzK75468t8QaFiQ1l03/view?usp=sharing) 
 
 ➡️  [All publications...][gscholar]
 
