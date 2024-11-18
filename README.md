@@ -37,7 +37,7 @@ Before starting my PhD, I worked as a software developer at **Amazon**.
 
 ## 🎓 Recent Publications
 
-- **[Model-Based Inference of Synaptic Plasticity Rules](https://www.biorxiv.org/content/10.1101/2023.12.11.571103v1)**  
+- **[Model-Based Inference of Synaptic Plasticity Rules](https://yashsmehta.com/plasticity-paper-website/)**  
   *NeurIPS 2024*
 
 
