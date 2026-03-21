@@ -1,42 +1,19 @@
-<div align="center">
+PhD student in Computational Cognitive Science at Johns Hopkins, working with [Mick Bonner](https://www.bonnerlab.org/) on representations in biological and artificial neural networks.
 
-# Yash Mehta
+### Projects
 
-PhD student in Computational Cognitive Science at Johns Hopkins
-<br>
-Working with [Mick Bonner](https://www.bonnerlab.org/) on representations in biological and artificial neural networks
+- **[ScholarBoard](https://yashsmehta.com/scholarboard/)** — Framework for mapping the research landscape in vision science
+- **[EduGoals](https://www.edugoals.ai/)** — Free tool helping students in rural India prepare for competitive exams
 
-[Website](https://yashsmehta.com) &nbsp;&middot;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=zFqBbIkAAAAJ) &nbsp;&middot;&nbsp; [Twitter](https://twitter.com/y_mehtu) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/yashsmehta)
+### Recent Publications
 
-</div>
-
-<br>
-
-#### Projects
-
-**[ScholarBoard](https://yashsmehta.com/scholarboard/)**
-<br>
-<sub>Framework for mapping the research landscape in vision science</sub>
-
-**[EduGoals](https://www.edugoals.ai/)**
-<br>
-<sub>Free tool helping students in rural India prepare for competitive exams</sub>
-
-<br>
-
-#### Recent Publications
-
-<!-- PUBLICATIONS:START -->
-<!-- auto-updated weekly via GitHub Actions -->
-<!-- PUBLICATIONS:END -->
-
-<br>
-
-#### Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- [Model-Based Inference of Synaptic Plasticity Rules](https://yashsmehta.com/plasticity-paper-website/) — NeurIPS 2024
+- [On the Stability and Scalability of Node Perturbation Learning](https://papers.nips.cc/paper_files/paper/2022/hash/cf38eb1549024cce4b3d2c1bb87a6c27-Abstract-Conference.html) — NeurIPS 2022
+- [NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://arxiv.org/abs/2201.13396) — ICLR 2022
+- [Towards Biologically Plausible Convolutional Networks](https://arxiv.org/abs/2106.13031) — NeurIPS 2021
 
 ---
 
-<sub>![](https://komarev.com/ghpvc/?username=yashsmehta&style=flat-square&color=grey&label=profile+views)</sub>
+[Website](https://yashsmehta.com) · [Google Scholar](https://scholar.google.com/citations?user=zFqBbIkAAAAJ) · [Twitter](https://twitter.com/y_mehtu) · [LinkedIn](https://www.linkedin.com/in/yashsmehta)
+
+![](https://komarev.com/ghpvc/?username=yashsmehta&style=flat-square&color=grey&label=profile+views)
