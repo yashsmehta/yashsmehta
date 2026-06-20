@@ -1,12 +1,13 @@
-PhD student in Computational Cognitive Science at Johns Hopkins, working with [Mick Bonner](https://www.bonnerlab.org/) on representations in biological and artificial neural networks.
+PhD student in Computational Cognitive Science at Johns Hopkins, working with [Mick Bonner](https://www.bonnerlab.org/) on representations in biological and artificial neural networks. AI + Neuroscience!
 
 ### Projects
 
 - **[ScholarBoard](https://yashsmehta.com/scholarboard/)** — Framework for mapping the research landscape in vision science
 - **[EduGoals](https://www.edugoals.ai/)** — Free tool helping students in rural India prepare for competitive exams
 
-### Recent Publications
+### Selected Research
 
+- [An extremely coarse feedback signal for learning human-aligned visual representations](https://arxiv.org/abs/2605.05556) — 2026 (under review), VSS (Selected Talk)
 - [Model-Based Inference of Synaptic Plasticity Rules](https://yashsmehta.com/plasticity-paper-website/) — NeurIPS 2024
 - [On the Stability and Scalability of Node Perturbation Learning](https://papers.nips.cc/paper_files/paper/2022/hash/cf38eb1549024cce4b3d2c1bb87a6c27-Abstract-Conference.html) — NeurIPS 2022
 - [NAS-Bench-Suite: NAS Evaluation is (Now) Surprisingly Easy](https://arxiv.org/abs/2201.13396) — ICLR 2022
